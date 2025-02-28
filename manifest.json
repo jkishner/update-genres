@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "minAppVersion": "0.12.0",
     "description": "Automatically generates genre pages based on artist metadata.",
-    "author": "Your Name",
-    "authorUrl": "https://yourwebsite.com",
+    "author": "Jeffrey Kishner",
+    "authorUrl": "https://github.com/jkishner/update-genres",
     "isDesktopOnly": false
   }
